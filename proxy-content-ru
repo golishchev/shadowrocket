@@ -1,7 +1,6 @@
 # NAME: Proxy Finance Russia
-# AUTHOR: Misha Tugushev
-# REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
-# UPDATED: 2023-06-19 22:49:55
+# CONFIGLINK: shadowrocket://config/add/https://raw.githubusercontent.com/golishchev/shadowrocket/main/template-ios-ru.conf
+# UPDATED: 29.08.2024
 DOMAIN-SUFFIX,sso.ya.ru
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,hd.kinopoisk.ru
